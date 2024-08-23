@@ -46,12 +46,12 @@ nav {
     z-index: 1000;
     transition: 0.5s;
 }
-.logo1{
+.logo1 {
     width: 75px; 
     height: auto;
     display: block;
     border-radius: 5%;
-    margin: -88px;  
+    margin: 0 auto; /* Alinhamento centralizado */
 }
 
 .logo {

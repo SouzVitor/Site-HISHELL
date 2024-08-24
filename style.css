@@ -585,8 +585,6 @@ textarea {
         padding: 10px 40px; /* Diminui o padding nas laterais para telas menores */
         height: 45px; /* Ajusta a altura da nav para ficar mais fina */
     }
-}
-
 
     .home-text h1 {
         font-size: 2rem; 

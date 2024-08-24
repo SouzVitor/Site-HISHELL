@@ -383,7 +383,7 @@ textarea {
 
 @media (max-width:991px){
     nav {
-        padding: 10px 35px;
+        padding: 10px 45px;
         height: 50px; /* Ajusta a altura da nav para ficar mais fina */
         z-index: 1000;
     }    

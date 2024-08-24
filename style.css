@@ -37,11 +37,11 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 15px 100px;
+    padding: 15px 90px;
     background-color: var(--main-color);
     box-shadow: 0 1px 4px rgb(146, 161, 176, 0.15);
     display: flex;
-    justify-content: space-between;
+   
     align-items: center;
     z-index: 1000;
     transition: 0.5s;
@@ -509,8 +509,7 @@ textarea {
             padding-left: 5px; /* Ajusta o espaçamento em telas menores */
             padding-right: 5px; /* Ajusta o espaçamento em telas menores */
         }
-    }
-    
+    }    
     
     .home-text a{
         width: auto;

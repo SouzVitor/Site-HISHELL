@@ -435,7 +435,7 @@ textarea {
     }       
     .social {      
         width: 25px;       
-        bottom: 10px;
+        bottom: 10%;
         left: 250px;     
     }
     .social i{
@@ -534,13 +534,12 @@ textarea {
         margin-top: 2rem;
     }
     .contact-content{
-        flex-direction: column;    
-        
+        flex-direction: column;                  ;
     }    
     .form-group{
         height: auto;
         width: auto;           
-        margin: auto;
+        margin: 0 auto;
         text-decoration: none;
         align-items: center;   
     }

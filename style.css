@@ -37,7 +37,7 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 15px 100px;
+    padding: 10px 100px;
     background-color: var(--main-color);
     box-shadow: 0 1px 4px rgb(146, 161, 176, 0.15);
     display: flex;
@@ -67,11 +67,9 @@ nav {
     text-decoration: none;
     cursor: pointer;
 }
-
 .logo:hover {
     color: var(--main-color);
 }
-
 ul {
     display: flex; 
 }

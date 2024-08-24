@@ -412,11 +412,11 @@ textarea {
     }
 
     .logo1 {   
-        width: 10px;         
-        height: 10px;
-        padding-left: 5px; /* Ajusta o espaçamento em telas menores */
-        padding-right: 5px; /* Ajusta o espaçamento em telas menores */
-    }    
+        width: 75px;         
+        height: auto;
+        padding-left: 10px; 
+        padding-right: 10px;
+    }  
     .toggle{
         width: 40px;
         height: 40px;

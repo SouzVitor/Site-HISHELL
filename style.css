@@ -412,10 +412,10 @@ textarea {
     }
 
     .logo1 {   
-        width: 75px;         
-        height: auto;
-        padding-left: 10px; 
-        padding-right: 10px;
+        width: 50px;         
+        height: 10px;
+        padding-left: 5px; 
+        padding-right: 5px;
     }  
     .toggle{
         width: 40px;

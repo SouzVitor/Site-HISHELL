@@ -404,13 +404,16 @@ textarea {
         line-height: 80px;
         color: #fff;
     }
+
     .logo {
         font-size: 1.4rem;
     }    
     .logo1 {            
         padding-left: 5px; /* Ajusta o espaçamento em telas menores */
         padding-right: 5px; /* Ajusta o espaçamento em telas menores */
-    }  
+    }    
+
+
     .toggle{
         width: 40px;
         height: 40px;
@@ -426,7 +429,8 @@ textarea {
         background-repeat: no-repeat;
         background-size: 25px;
         cursor: pointer;
-    }    
+    }
+    
     section{
         padding: 80px;
     }
@@ -511,7 +515,6 @@ textarea {
         padding: 10px 40px; /* Diminui o padding nas laterais para telas menores */
         height: 45px; /* Ajusta a altura da nav para ficar mais fina */
     }
-
     .home-text h1 {
         font-size: 2rem; 
         margin: 15px 0; 
@@ -519,7 +522,7 @@ textarea {
     .logo {
         font-size: 1.2rem;
     }
-
+    
 }
 @media (max-width: 480px) {
     .logo {

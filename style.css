@@ -435,7 +435,7 @@ textarea {
     }       
     .social {      
         width: 25px;       
-        bottom: auto;
+        bottom: 10px;
         left: 250px;     
     }
     .social i{
@@ -537,7 +537,6 @@ textarea {
         flex-direction: column;    
         
     }    
-
     .form-group{
         height: auto;
         width: auto;           

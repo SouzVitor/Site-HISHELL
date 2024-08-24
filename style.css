@@ -502,9 +502,7 @@ textarea {
     }
     
     @media (max-width: 991px) {
-        .logo1 {
-            margin-left: auto; /* Garante que ele não fique centralizado */
-            margin-right: 0; /* Remove o auto para alinhar à direita */
+        .logo1 {            
             padding-left: 5px; /* Ajusta o espaçamento em telas menores */
             padding-right: 5px; /* Ajusta o espaçamento em telas menores */
         }

@@ -399,15 +399,18 @@ textarea {
     .menu.active{
         right: 0;
     }
-    nav ul li a{
-        font-size: 35px;
-        line-height: 80px;
-        color: #fff;
-    }          
+     
+    .menu ul li {
+        margin: 20px 0; /* Ajuste o espaço entre os itens do menu */
+    }
+
+    .menu ul li a {
+        font-size: 1.2rem; /* Ajuste o tamanho da fonte para melhor legibilidade em telas pequenas */
+        padding: 10px 20px; /* Ajuste o padding dos itens do menu */
+    }
 
     .logo1 {   
-        width: 75px;         
-        height: auto;
+        
         padding-left: 5px; 
         padding-right: 5px;
     }  

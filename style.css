@@ -405,7 +405,7 @@ textarea {
         color: #fff;
     }
     .logo {
-        line-height: 1.2; /* Ajuste para o espaçamento vertical */
+        font-size: 1.4rem;
     }    
     .logo1 {            
         padding-left: 5px; /* Ajusta o espaçamento em telas menores */
@@ -526,6 +526,7 @@ textarea {
         font-size: 1rem;
     }
 }
+
 @media (max-width: 360px) {
 section {
     padding: 35px;

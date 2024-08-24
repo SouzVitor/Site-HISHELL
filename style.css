@@ -436,7 +436,7 @@ textarea {
     .social {      
         width: 25px;       
         bottom: auto;
-        left: auto;     
+        left: 18px;     
     }
     .social i{
         margin-right: 14px;           

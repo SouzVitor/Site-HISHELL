@@ -379,7 +379,7 @@ textarea {
 }
 @media (max-width:991px){
     nav {
-        padding: 10px 50px;        
+        padding: 10px 20px;        
         z-index: 1000;
     }    
     .menu{
@@ -403,8 +403,7 @@ textarea {
         font-size: 35px;
         line-height: 80px;
         color: #fff;
-    }    
-       
+    }          
 
     .logo1 {   
         width: 75px;         

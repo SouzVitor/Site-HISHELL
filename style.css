@@ -584,6 +584,15 @@ textarea {
 }
 
 @media (max-width: 768px) {
+    /* Para telas menores, como dispositivos móveis */
+@media (max-width: 768px) {
+    nav {
+        padding: 10px 20px; /* Diminui o padding nas laterais para telas menores */
+        height: 45px; /* Ajusta a altura da nav para ficar mais fina */
+    }
+}
+
+
     .home-text h1 {
         font-size: 2rem; 
         margin: 15px 0; 

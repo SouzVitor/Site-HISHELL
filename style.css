@@ -306,8 +306,7 @@ ul li a:hover {
     object-position: center;
     border-radius: 15px;
 }
-.work-text a {   
-    
+.work-text a {       
     background: #25D366;
     font-size: 35px;
     padding: 1px 15px;
@@ -315,12 +314,10 @@ ul li a:hover {
     color: #fff;    
     cursor: pointer;       
 }
-
 .work-text a:hover {
     background: var(--main-color);
     box-shadow: 0 10px 40px rgb(0, 0, 0, 0.14);
 }
-
 .heading.color h2{
     color: #fff;
     border-bottom: 3px solid #fff;
@@ -382,8 +379,7 @@ textarea {
 }
 @media (max-width:991px){
     nav {
-        padding: 10px 45px;
-        height: 50px; /* Ajusta a altura da nav para ficar mais fina */
+        padding: 10px 45px;        
         z-index: 1000;
     }    
     .menu{

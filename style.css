@@ -263,7 +263,6 @@ ul li a:hover {
     margin-top: 2.5rem;
     gap: 20px; /* Adiciona espaço entre o texto e a imagem */
 }
-
 .work-img {
     width: 420px;
     max-width: 100%;
@@ -385,7 +384,7 @@ textarea {
 @media (max-width:991px){
     nav {
         padding: 10px 20px;
-        height: 45px; /* Ajusta a altura da nav para ficar mais fina */
+        height: 50px; /* Ajusta a altura da nav para ficar mais fina */
         z-index: 1000;
     }    
     .menu{

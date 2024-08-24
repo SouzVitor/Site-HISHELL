@@ -37,11 +37,11 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 15px 90px;
+    padding: 15px 100px;
     background-color: var(--main-color);
     box-shadow: 0 1px 4px rgb(146, 161, 176, 0.15);
     display: flex;
-   
+    justify-content: space-between;
     align-items: center;
     z-index: 1000;
     transition: 0.5s;
@@ -55,8 +55,6 @@ nav {
     margin-right: auto; /* Garante que ele não fique centralizado */
     padding-left: 10px; /* Adiciona espaçamento entre a borda da página e o logotipo */
 }
-
-
 .logo {
     text-transform: uppercase;
     font-size: 1.4rem;
@@ -506,6 +504,8 @@ textarea {
     
     @media (max-width: 991px) {
         .logo1 {
+            margin-left: auto; /* Garante que ele não fique centralizado */
+            margin-right: 0; /* Remove o auto para alinhar à direita */
             padding-left: 5px; /* Ajusta o espaçamento em telas menores */
             padding-right: 5px; /* Ajusta o espaçamento em telas menores */
         }

@@ -380,7 +380,6 @@ textarea {
     color: #fff;
     text-align: center;
 }
-
 @media (max-width:991px){
     nav {
         padding: 10px 45px;
@@ -582,10 +581,8 @@ textarea {
 }
 
 @media (max-width: 768px) {
-    /* Para telas menores, como dispositivos móveis */
-@media (max-width: 768px) {
     nav {
-        padding: 10px 20px; /* Diminui o padding nas laterais para telas menores */
+        padding: 10px 40px; /* Diminui o padding nas laterais para telas menores */
         height: 45px; /* Ajusta a altura da nav para ficar mais fina */
     }
 }

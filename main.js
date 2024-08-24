@@ -46,7 +46,6 @@ sr.reveal ('.about-img',{})
 sr.reveal ('.heading',{})
 sr.reveal ('.about-text',{delay:200})
 
-
 sr.reveal ('.services-content',{})
 
 sr.reveal ('.work-text',{})

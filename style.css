@@ -404,12 +404,11 @@ textarea {
         line-height: 80px;
         color: #fff;
     }    
-    
-   
+       
 
     .logo1 {   
-        width: 50px;         
-        height: 10px;
+        width: 75px;         
+        height: auto;
         padding-left: 5px; 
         padding-right: 5px;
     }  

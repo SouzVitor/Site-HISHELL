@@ -435,8 +435,8 @@ textarea {
     }       
     .social {      
         width: 25px;       
-        bottom: 65%;
-        left: 350px;     
+        bottom: auto;
+        left: auto;     
     }
     .social i{
         margin-right: 14px;           
@@ -468,7 +468,7 @@ textarea {
         display: inline;
     }   
     .work-text h1{        
-        font-size: 1.3rem;
+        font-size: 1rem;
         line-height: auto;
         margin-top: 7rem;           
     }   
@@ -509,7 +509,7 @@ textarea {
         margin-top: 1rem;
     }
     .work-text p1{                     
-        font-size: 1.2rem;        
+        font-size: 1rem;        
     }
     .home-text h1 {
         font-size: 2rem;

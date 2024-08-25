@@ -283,7 +283,7 @@ ul li a:hover {
     font-size: 1.5rem;
     color: var(--second-color);
     line-height: 2.4rem;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
 
 .work-img {
@@ -336,7 +336,6 @@ ul li a:hover {
     color: #fff;
     line-height: 1.5;    
 }
-
 
 .form-group{    
     width: auto;     
@@ -519,8 +518,13 @@ textarea {
         text-align: center;
         margin-top: 1rem;
     }
+    .work-text h1 {
+        font-size: 1.5rem;
+        letter-spacing: 0.5px;
+        line-height: 1.2;
+    }
     .work-text p1{                     
-        font-size: 1rem;        
+        font-size: 1.2rem;        
     }
     .home-text h1 {
         font-size: 2rem;
@@ -549,7 +553,7 @@ textarea {
     }   
 
     #contact .heading h2 {
-        margin-top: 40px;              
+        margin-top: auto;              
     }
     .form-group{
         height: auto;

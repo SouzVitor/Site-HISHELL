@@ -210,7 +210,7 @@ ul li a:hover {
     color: var(--second-color);
     margin: 5px 0 24px;
     text-align: justify;
-    line-height: 1.8rem;
+    line-height: 1.5rem;
 }
 .services-content{
     display: flex;
@@ -517,12 +517,7 @@ textarea {
         width: auto;
         text-align: center;
         margin-top: 1rem;
-    }
-    .work-text h1 {
-        font-size: 1.5rem;
-        letter-spacing: 0.5px;
-        line-height: 1.2;
-    }
+    }    
     .work-text p1{                     
         font-size: 1.2rem;        
     }
@@ -533,15 +528,15 @@ textarea {
         margin-top: 1rem;
     }
     .work-content {
-        flex-direction: column; /* Coloca a imagem e o texto em coluna */
-        gap: 10px; /* Reduz o espaço entre a imagem e o texto */
+        flex-direction: column;         
     } 
     .work-text h1 {
         font-size: 1.5rem;
         line-height: 1rem;
         margin-top: 1rem;
         margin-bottom: 1rem;
-        text-align: center; /* Centraliza o texto */
+        letter-spacing: 0.5px;
+        text-align: center;        
     }
     .work-img {
         width: auto;
@@ -551,8 +546,7 @@ textarea {
     .contact-content{
         flex-direction: column;                  ;
     }   
-
-    #contact .heading h2 {
+    #contact .heading h2 {        
         margin-top: auto;              
     }
     .form-group{
